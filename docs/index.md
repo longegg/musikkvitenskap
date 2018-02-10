@@ -14,4 +14,5 @@ Pedagogikk, lingvistikk, kunsthistorie?
 
 ## Lenker
 
-Oppbygning: <http://www.uio.no/studier/program/musikkvitenskap/oppbygging/>
+- [Studiet oppbygning](http://www.uio.no/studier/program/musikkvitenskap/oppbygging/ "UIO")
+- [Opptaksprøve musikkvitenskap](http://www.hf.uio.no/imv/studier/opptak/ "UIO")
