@@ -2,6 +2,8 @@
 
 For full documentation on MkDocs, visit [mkdocs.org](http://mkdocs.org).
 
+**Nytt masterstudie fra 2018 som kombinerer musikkteknologi og mer. Se link under!**
+
 ## 40-fag
 
 Pedagogikk, lingvistikk, kunsthistorie?
