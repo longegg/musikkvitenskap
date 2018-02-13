@@ -4,7 +4,7 @@ Mitt prosjekt om musikkvitenskap.
 
 ## Deployment
 
-Her kommer det mer info om dette. Tanken er:
+Bruker Github project pages. Hvis repo skal være privat kan en mulighet være:
 
 1. Lokalt: git push
 2. Bitbucket: post-push webhook
