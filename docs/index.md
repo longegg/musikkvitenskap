@@ -16,3 +16,4 @@ Pedagogikk, lingvistikk, kunsthistorie?
 
 - [Studiet oppbygning](http://www.uio.no/studier/program/musikkvitenskap/oppbygging/ "UIO")
 - [Opptaksprøve musikkvitenskap](http://www.hf.uio.no/imv/studier/opptak/ "UIO")
+- [Musikkteknologi(ish) samarbeid med UIO](https://www.ntnu.edu/studies/mct)
