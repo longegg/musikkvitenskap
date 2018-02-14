@@ -26,3 +26,9 @@ Ser farger.
 **Intellektuelt interesserte lyttere**
 Mest opptatt av motivisk og tematisk behandling, harmonier, formutvikling, bruk
 av instrumenter o.l.
+
+### Musikkestetiske holdninger
+
+Musikk - mousiké téchne (gresk) - "musenes kunst". En muse i gresk mytologi var en gudinne for en vitenskap eller kunstart (historie, drama, musikk osv.).  
+
+Estetikk = "læren om det skjønne", følelseslære, kunstens virkning på følelseslivet. Består musikk av følelser eller bare toner, rytmer og klanger?
