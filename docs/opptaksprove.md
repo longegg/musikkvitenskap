@@ -12,65 +12,27 @@ Samme navn som latinske ordenstallene: prim, sekund, ters, kvart, kvint, sekst, 
 
 **Alle intervaller med S i navnet er store, de andre er rene.**
 
-#### Rene intervaller
+#### Oversikt
 
-**Prim**
+| Navn     | Stor / Ren | Ant. trinn             |
+| -------- | ---------- | -----------------------|
+| Prim     | Ren        | ingen                  |
+| Sekund   | Stor       | ett helt               |
+| Ters     | Stor       | to hele                |
+| Kvart    | Ren        | to hele og ett halvt   |
+| Kvint    | Ren        | tre hele og ett halvt  |
+| Sekst    | Stor       | fire hele og ett halvt |
+| Septim   | Stor       | fem hele og ett halvt  |
+| Oktav    | Ren        | fem hele og to halve   |
 
-* Ren: C-C
-* Forstørret: C-C# 
-
-**Kvart**  
-Øverste note på fjerde trinn   
-
-* Ren: To hele og ett halvt trinn, **C-F**  
-* Forstørret: Tre hele trinn (tritonus), **C-F#**  
-* Forminsket: Et helt og to halve trinn, **C-Fb**
-
-**Kvint**  
-Øverste note på femte trinn  
-
-* Ren: tre hele og et halvt trinn, **C-G**  
-* Forstørret: **C-G#**  
-* Forminsket: **C-Gb**
-
-**Oktav**  
-8. trinn  
-
-* Ren: **C-C**  
-* Forstørret: **C-C#**  
-* Forminsket: **C-Cb**
-
-#### Store og små intervaller
-
-**Sekund**  
-Den ene på linjen, den andre mellom to linjer  
-
-* Stor: et helt trinn, **C-D**  
-* Liten: et havlt trinn, **C-Db**  
-* Forstørret: **C-D#**  
-* Forminsket: **C-Dbb**
-
-**Ters**  
-To hele trinn. 3. Trinn ut fra utgangstonen. Ligger enten på linjen ved siden av eller i mellomrom ved siden av.
-
-* Stor: **C-E**
-* Liten: Et og et halvt trinn, **C-Eb**
-* Forstørret: **C-E#**
-* Forminsket: **C-Ebb**
-
-**Sekst**  
-
-* Stor: Fire og ett halvt trinn (ren kvart + stor ters), **C-A**
-* Liten: Ren kvart + liten ters, **C-Ab**
-* Forstørret: **C-A#**
-* Forminsket: **C-Abb**
-
-**Septim**
-
-* Stor: Fem hele og et halvt trinn, **C-H**
-* Liten: Fire hele og to halve trinn, **C-Hb**
-* Forstørret: Veldig sjelden, **C-H#**
-* Forminsket: Veldig vanlig, ofte notert som stor sekst, **C-Hbb**
+**Prim** (Ren): Samme tone  
+**Sekund** (Stor): 1 trinn  
+**Ters** (Stor): 2 trinn  
+**Kvart** (Ren): 2 + 1/2 trinn  
+**Kvint** (Ren): 3 + 1/2 trinn  
+**Sekst** (Stor): 4 + 1/2 trinn  
+**Septim** (Stor): 5 + 1/2 trinn  
+**Oktav** (Ren): 8. 
 
 #### Større intervaller enn oktav
 
@@ -96,6 +58,10 @@ Finn grunnintervallet uten fortegn. Start med nederste note og tell antall linje
 Sjekk så fortegn som gjør intervallet stort eller lite, forstørret eller forminsket.  
 
 Eks: ciss-ass er uten fortegn en stor sekst (6 trinn). Ved at a senkes blir det en liten sekst. Når c også heves, blir det en forminsket sekst.
+
+Metode 2:  
+**Må kunne alle faste fortegn i alle durskalaer**  
+Bruk nederste note som utgangspunkt. Hvis en G, så er det G-dur. Tell opp til øverste. Da ser man intervallet i forhold til skalaen.
 
 #### Konsonerende og dissonerende intervaller
 
