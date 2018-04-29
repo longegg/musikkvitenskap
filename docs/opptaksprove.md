@@ -10,6 +10,8 @@ Intervall (latin intervallum = mellomrom) er avstanden mellom to toner, enten i 
 
 Samme navn som latinske ordenstallene: prim, sekund, ters, kvart, kvint, sekst, septim og oktav.
 
+**Alle intervaller med S i navnet er store, de andre er rene.**
+
 #### Rene intervaller
 
 **Prim**
@@ -104,6 +106,8 @@ store og små terser og sekster
 **Dissonerende intervaller**  
 store og små sekunder og septimer  
 alle forstørrede og forminskede intervaller
+
+![alt text](intervalltabell.jpg)
 
 #### Referanser
 
