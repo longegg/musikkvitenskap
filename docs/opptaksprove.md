@@ -90,19 +90,32 @@ Legg dypeste tonen opp en oktav eller høyeste ned en oktav
 
 #### Hvordan et intervall bestemmes
 
-Finn grunnintervallet uten fortegn. Start med nederste note og tell antall linjer og mellomrom til øverste. 
+Finn grunnintervallet uten fortegn. Start med nederste note og tell antall linjer og mellomrom til øverste.  
+Sjekk så fortegn som gjør intervallet stort eller lite, forstørret eller forminsket.  
+
+Eks: ciss-ass er uten fortegn en stor sekst (6 trinn). Ved at a senkes blir det en liten sekst. Når c også heves, blir det en forminsket sekst.
+
+#### Konsonerende og dissonerende intervaller
+
+**Konsonerende intervaller**  
+rene primer, oktaver og kvinter  
+store og små terser og sekster
+
+**Dissonerende intervaller**  
+store og små sekunder og septimer  
+alle forstørrede og forminskede intervaller
 
 #### Referanser
 
 Benestad, Finn. (2016). Musikklære. ed. City: Publisher, pp.27-
 
-#### Bestemme grunnpuls og taktart i musikkeksempler du får høre.
+### Bestemme grunnpuls og taktart i musikkeksempler du får høre.
 
-#### Notere rytmer (med noter eller i et noteverdioppsett).
+### Notere rytmer (med noter eller i et noteverdioppsett).
 
-#### Vise grunnleggende kjennskap til noter (gjenkjenne notebilder).
+### Vise grunnleggende kjennskap til noter (gjenkjenne notebilder).
 
-#### Identifisere tonene i akkorder (med noter eller ved å angi tonene på en tangentoversikt - piano/keyboards).
+### Identifisere tonene i akkorder (med noter eller ved å angi tonene på en tangentoversikt - piano/keyboards).
 
 ## Andre del: Notasjon
 
