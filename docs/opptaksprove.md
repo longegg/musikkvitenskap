@@ -25,15 +25,6 @@ Samme navn som latinske ordenstallene: prim, sekund, ters, kvart, kvint, sekst, 
 | Septim   | Stor       | fem hele og ett halvt  |
 | Oktav    | Ren        | fem hele og to halve   |
 
-**Prim** (Ren): Samme tone  
-**Sekund** (Stor): 1 trinn  
-**Ters** (Stor): 2 trinn  
-**Kvart** (Ren): 2 + 1/2 trinn  
-**Kvint** (Ren): 3 + 1/2 trinn  
-**Sekst** (Stor): 4 + 1/2 trinn  
-**Septim** (Stor): 5 + 1/2 trinn  
-**Oktav** (Ren): 8. 
-
 #### Større intervaller enn oktav
 
 none = oktav + sekund  
@@ -54,14 +45,22 @@ Legg dypeste tonen opp en oktav eller høyeste ned en oktav
 
 #### Hvordan et intervall bestemmes
 
+**Metode 1 (boka):**  
 Finn grunnintervallet uten fortegn. Start med nederste note og tell antall linjer og mellomrom til øverste.  
 Sjekk så fortegn som gjør intervallet stort eller lite, forstørret eller forminsket.  
 
 Eks: ciss-ass er uten fortegn en stor sekst (6 trinn). Ved at a senkes blir det en liten sekst. Når c også heves, blir det en forminsket sekst.
 
-Metode 2:  
-**Må kunne alle faste fortegn i alle durskalaer**  
-Bruk nederste note som utgangspunkt. Hvis en G, så er det G-dur. Tell opp til øverste. Da ser man intervallet i forhold til skalaen.
+**Metode 2 (musikkteori.net):** 
+
+(Må bruke kvintsirkelen)
+
+<https://www.reddit.com/r/musictheory/comments/411g8n/easy_way_to_memorize_the_circle_of_fifths/>
+
+1. **Finner vi den øverste tonen i durskalaen fra den nederste tonen?**  
+ Ja: Stor eller ren  
+ Nei: Liten, forstørret eller forminsket
+2. **På hvilket trinn i skalaen er den øverste tonen i forhold til den øverste tonen?**
 
 #### Konsonerende og dissonerende intervaller
 
@@ -75,10 +74,6 @@ alle forstørrede og forminskede intervaller
 
 ![alt text](intervalltabell.jpg)
 
-#### Referanser
-
-Benestad, Finn. (2016). Musikklære. ed. City: Publisher, pp.27-
-
 ### Bestemme grunnpuls og taktart i musikkeksempler du får høre.
 
 ### Notere rytmer (med noter eller i et noteverdioppsett).
@@ -86,6 +81,12 @@ Benestad, Finn. (2016). Musikklære. ed. City: Publisher, pp.27-
 ### Vise grunnleggende kjennskap til noter (gjenkjenne notebilder).
 
 ### Identifisere tonene i akkorder (med noter eller ved å angi tonene på en tangentoversikt - piano/keyboards).
+
+### Referanser
+
+Benestad, Finn. (2016). Musikklære. ed. City: Publisher, pp.27-
+
+<http://www.trell.org/quizmeny.html>
 
 ## Andre del: Notasjon
 
@@ -96,3 +97,4 @@ Vise elementære ferdigheter i å lese og skrive noter (bass og diskantnøkkel).
 Gjenkjenne instrumenter i et sammensatt lydbilde.
 
 Gjenkjenne elementære effekter og vise elementær kunnskap om lyd, opptak og produksjonsverktøy.
+
