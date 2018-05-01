@@ -60,7 +60,7 @@ Eks: ciss-ass er uten fortegn en stor sekst (6 trinn). Ved at a senkes blir det 
 1. **Finner vi den øverste tonen i durskalaen fra den nederste tonen?**  
  Ja: Stor eller ren  
  Nei: Liten, forstørret eller forminsket
-2. **På hvilket trinn i skalaen er den øverste tonen i forhold til den øverste tonen?**
+2. **På hvilket trinn i skalaen er den øverste tonen i forhold til den nederste tonen?**
 
 #### Konsonerende og dissonerende intervaller
 
