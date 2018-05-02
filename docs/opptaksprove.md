@@ -4,6 +4,30 @@
 
 ## Første del: Generell musikkteori
 
+### Kvintsirkelen (lagt til av meg)
+
+Går méd klokka oppover C-dur skalaen kvint for kvint. Fiss-dur har seks kryss og er enharmonisk med Gess-dur.  
+
+#### Huskeregler
+
+Følgende er på engelsk og gir både antall kryss og B og hvilke det er kryss og B for:
+
+**F**ather **C**harles **G**oes **D**own **A**nd **E**nds **B**attle.
+
+De to neste er på norsk og har kun med antallet og ikke hvilke det er kryss og B for i reglen:
+
+**G**å – **D**u – **A**ldri – **E**tter – **H**ans – **FISS**kestang
+
+**F**ar – **B**esøkte – **ESS**pen – **ASS**pen – **DESS**uten – **GESS**pen
+
+Med den første reglen kan man skrive ned på følgende måte:
+
+6  0 1 2 3 4 5  
+F# C G D A E B
+
+2  3  4  5  6  0 1  
+Eb Eb Ab Db Gb C F
+
 ### Identifisere intervaller og dur- og mollskalaer.
 
 Intervall (latin intervallum = mellomrom) er avstanden mellom to toner, enten i samklang (harmoniske) eller i rekkefølge (melodiske).
