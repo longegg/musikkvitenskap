@@ -49,6 +49,24 @@ Samme navn som latinske ordenstallene: prim, sekund, ters, kvart, kvint, sekst, 
 | Septim   | Stor       | fem hele og ett halvt  |
 | Oktav    | Ren        | fem hele og to halve   |
 
+| Intervall | Hjelpesang stigende | Hjelpesang synkende |
+| --------- | ------------------- | --------------------|
+| Ren Prim  | Se min kjole |
+| Forstørret prim <br>Liten sekund | Haisommer, Pink Panther | Für Elise, O Fortuna |
+| Stor sekund | Lisa gikk til skolen | Ja, vi elsker dette landet, Yesterday |
+| Liten ters | Mikkel rev, Greensleves, Beverly Hills Cop | Star-spangled banner |
+| Stor ters <br> Forminsket ters | When the saints, Kumbaya | Summertime (Gerschwin) |
+| Ren kvart | Amazing grace, Love me tender | Eine kleine nachtmusik |
+| Forstørret kvart <br> Forminsket kvart <br> Tritonus | The simpsons | Black Sabbath |
+| Ren kvint | Bæ, bæ lille lam, Can't help falling in love | Flintstones |
+| Forstørret kvint <br> Liten sekst | The entertainer |  |
+| Stor sekst | Nå har vi vaska golvet | Man in the mirror (refr.) |
+| Liten septim | Nothing Compares 2U | |
+| Stor septim | Take On Me (refr.) | |
+| Oktav | Over the rainbow | |
+
+<https://www.earmaster.com/products/free-tools/interval-song-chart-generator.html>
+
 #### Større intervaller enn oktav
 
 none = oktav + sekund  
