@@ -124,6 +124,41 @@ alle forstørrede og forminskede intervaller
 
 ### Identifisere tonene i akkorder (med noter eller ved å angi tonene på en tangentoversikt - piano/keyboards).
 
+#### Treklang - Dur og moll
+
+Durtreklang er 4 halvtoner og 3 halvtoner (stor ters + liten ters)  
+Molltreklang er omvendt (liten ters og stor ters)
+
+Avstanden mellom ytterpunktene er en ren kvint i begge tilfeller.
+
+#### Forstørrede og forminskede treklanger
+
+Stor ters + stor ters = forstørret treklang. Durakkord med forstørret kvint.  
+Liten ters + liten ters = forminska treklang. Mollakkord med forminska kvint.
+
+#### Septimakkorder
+
+Grunntreklang med tillagt septim.
+
+**Stor septim**  
+Avstanden mellom grunntonens oktav og septim er et halvt trinn. F.eks. **Cmaj7**.
+
+**Liten septim**  
+Avstanden mellom septim og grunntonens oktav er et helt trinn. F.eks. **C7**.
+
+#### 8 forskjellige akkorder
+
+|   | Stor septim | Liten septim |
+| - | ----------- | -------------|
+| Dur | Cmaj7 | C7 |
+| Moll | Cm maj7 | Cm7 |
+| Forstørret | C+ maj7 | C+7 |
+| Forminsket | Cdim maj7 | Cdim7 / Cm7(b5) |
+
+#### Referanser 
+
+<http://www.musikkteori.net/2011/02/07/grunnleggende-om-akkorder-septimakkorder/>
+
 ### Referanser
 
 Benestad, Finn. (2016). Musikklære. ed. City: Publisher, pp.27-
