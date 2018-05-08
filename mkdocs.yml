@@ -2,5 +2,5 @@ site_name: Musikkvitenskap
 pages:
   - Musikkvitenskap: 'index.md'
   - Musikklære: 'musikklaere.md'
-  - Opptaksprøven: 'opptaksprove.md'
+  - Generell musikkteori: 'generell-teori.md'
 #theme: readthedocs
