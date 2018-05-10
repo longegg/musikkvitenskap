@@ -30,9 +30,16 @@ F#m Cm Gm Dm Am Em Bm
 5   6   0   1   2   3  4
 Bbm Ebm Abm Dbm Gbm Cm Fm
 
-Intervaller
+Metode 2 (**bruk denne**): 
 
-## Fb
+Her trenger man bare å huske regla "Father Charles..." og at fortegn i dur regnes fra C mens moll fra A.
+
+Fb Cb Gb Db Ab Eb Bb - F C G D A E B - F# C# G# D# A# E# B#
+
+Hvis dur: tell fra C. Til høyre er kryss og til venstre er B'er  
+Hvis moll: tell fra A, samme metode.
+
+## Intervaller
 
 Intervall (latin intervallum = mellomrom) er avstanden mellom to toner, enten i samklang (harmoniske) eller i rekkefølge (melodiske).
 
@@ -120,6 +127,10 @@ alle forstørrede og forminskede intervaller
 
 ![alt text](intervalltabell.jpg)
 
+### Ressurser
+
+<http://www.madelinesalocks.com/MusicalIntervalsTutor/listenpg.html>
+
 ## Grunnpuls og taktart
 
 ## Notere rytmer
@@ -195,6 +206,16 @@ Hvis det bare står C+ betyr det at kvinten er hevet en halvtone (forstørret tr
 * 6 og 9 samtidig. Består av 1, 2/9, 3, 5 og 6. Eks. C6add9 eller C9/6.
 * halvforminsket firklang: Liten ters, forminsket kvint, liten septim. Eks. Cm7b5. Kan også bruke "ø".
 * helforminsket firklang, også kalt "dim" (diminished) eller "o". Siden alle tonene har samme avstand til hverandre, kan alle være grunntonen.
+
+### 2-5-1
+
+Når utgangspunkt er C dur:  
+2 = D moll  
+5 = G dur (dominant)
+1 = C dur (tonika)
+
+Kan også gå fra akkord 1(8, oktaven) og bruk kvintsirkel. Gå ned en ren kvart til G (5) og videre til D (2). 
+Bruk Father Charles reglen for å gjøre dette.
 
 ## Referanser
 
