@@ -76,6 +76,16 @@ Samme navn som latinske ordenstallene: prim, sekund, ters, kvart, kvint, sekst, 
 | Stor septim | Take On Me (refr.) | |
 | Oktav | Over the rainbow | |
 
+| Intervall | Hjelptekst |
+| --------- | -----------|
+| Stor sekund | Andre tone i durskala |
+| Liten ters | Andre tone i moll treklang |
+| Stor ters | Andre tone i dur treklang |
+| Ren kvart | En halvtone opp fra stor ters |
+| Ren kvint | Tredje tone i treklang |
+| Stor sekst | Neste i kombaya |
+| Stor septim | Halvtone under oktav |
+
 <https://www.earmaster.com/products/free-tools/interval-song-chart-generator.html>
 
 ### Større intervaller enn oktav
