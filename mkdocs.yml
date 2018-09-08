@@ -1,5 +1,5 @@
 site_name: Musikkvitenskap
-pages:
+nav:
   - Musikkvitenskap: 'index.md'
   - Musikklære: 'musikklaere.md'
   - Generell musikkteori: 'generell-teori.md'
