@@ -2,6 +2,10 @@
 
 Mitt prosjekt om musikkvitenskap.
 
+## Getting started
+
+1. Kjør Git clone (adressen finnes her i github)
+
 ## Deployment
 
 Bruker Github project pages. Hvis repo skal være privat kan en mulighet være:
