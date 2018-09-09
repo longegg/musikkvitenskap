@@ -6,7 +6,7 @@ Mitt prosjekt om musikkvitenskap.
 
 - (https://www.mkdocs.org/#installation)
 
-https://help.github.com/articles/creating-project-pages-using-the-command-line/
+- (https://help.github.com/articles/creating-project-pages-using-the-command-line/)
 
 1. Kjør Git clone (adressen finnes her i github)
 
