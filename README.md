@@ -4,7 +4,13 @@ Mitt prosjekt om musikkvitenskap.
 
 ## Getting started
 
+- (https://www.mkdocs.org/#installation)
+
+https://help.github.com/articles/creating-project-pages-using-the-command-line/
+
 1. Kjør Git clone (adressen finnes her i github)
+
+2. Installer Python
 
 ## Deployment
 
